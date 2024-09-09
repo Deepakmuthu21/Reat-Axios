@@ -1,0 +1,1 @@
+This project demonstrates a basic CRUD operation using Axios for HTTP requests. It showcases how to create, read, update, and delete resources from an API endpoint.

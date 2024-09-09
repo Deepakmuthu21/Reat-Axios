@@ -1,0 +1,11 @@
+nav a{
+  text-decoration: none !important;
+  margin-right: 25px !important;
+  font-size: xx-large;
+  color: brown;
+}
+.navbar-collapse{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
